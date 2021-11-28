@@ -6,7 +6,7 @@ module.exports = {
     appId: 'input your appId',
     appKey: 'input your appKey',
     logo: '/assets/img/logo.jpg',
-    background: '/assets/img/background.jpg',
+    background: 'https://upyun.cavalheiro.cn/images/background.jpg',
     externalLinks: [
         {
             text: 'GitHub',
