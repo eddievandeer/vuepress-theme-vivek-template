@@ -12,7 +12,7 @@ npm run docs:dev
 # 打包项目，生成静态文件
 npm run docs:build
 
-# 使用deploy.sh中的脚本发布网站
+# 使用deploy.sh中的脚本发布网站，发布前请先更改文件中的发布路径
 npm run deploy
 ~~~
 
